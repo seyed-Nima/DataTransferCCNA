@@ -1,1 +1,2 @@
-MN : Git is Very Cool !
+MN : Git is Very Cool ! 
+No its not!
